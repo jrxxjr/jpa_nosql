@@ -17,14 +17,14 @@ ________________________________________________________________________________
 English: 
 # Java application example using JPA with Hibernate connecting to database nosql MongoDb
 
-1 - A standard Eclipse Maven project was created JSE, just import a Maven project in Eclipse.
+1 - A standard Eclipse Maven project was created JSE, just import a Maven project in Eclipse.  
 
-2 - Maven Project should be updated to download the apis used in the project.
-3 - The application must first be executed locally to create and populate the tables, with persistence-des.xml
-  - You must rename the persistence-des.xml file to persistence.xml.
-  - You must rename the persistence.xml file to persistence-des.xml.
-  - You must rename the persistence-prod.xml file to persistence.xml.
+2 - Maven Project should be updated to download the apis used in the project.  
+3 - The application must first be executed locally to create and populate the tables, with persistence-des.xml  
+  - You must rename the persistence-des.xml file to persistence.xml.  
+  - You must rename the persistence.xml file to persistence-des.xml.  
+  - You must rename the persistence-prod.xml file to persistence.xml.  
 
-4 - The CreateTabelasTest.java class must be executed.
+4 - The CreateTabelasTest.java class must be executed.  
 
-5 - Check if the application tables were created and populated.
+5 - Check if the application tables were created and populated.  
