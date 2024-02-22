@@ -1,4 +1,5 @@
-﻿Portuguese: Exemplo de aplicação Java usando JPA com Hibernate se conectando com banco de dados nosql MongoDb
+﻿Portuguese: 
+ # Exemplo de aplicação Java usando JPA com Hibernate se conectando com banco de dados nosql MongoDb
 
 1 - Foi criado um projeto Maven do Eclipse padrão JSE, é só importar um projeto Maven no Eclipse.  
 
@@ -13,7 +14,8 @@
 5 - Verificar se as tabelas da aplicação foram criadas e populadas. 
 
 
-English: Java application example using JPA with Hibernate connecting to database nosql MongoDb
+English: 
+# Java application example using JPA with Hibernate connecting to database nosql MongoDb
 
 1 - A standard Eclipse Maven project was created JSE, just import a Maven project in Eclipse.
 
